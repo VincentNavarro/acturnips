@@ -1,0 +1,16 @@
+{
+  "name": "acturnips",
+  "version": "1.0.0",
+  "description": "let's get these turnips",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vince",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^80.0.2",
+    "node-fetch": "^2.6.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
